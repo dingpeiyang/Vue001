@@ -3,7 +3,10 @@
 > A Vue.js project
 
 ## Build Setup
+###这是一个vue项目，不用看，虽然项目不牛逼，但我是一个有灵魂的前端开发工程师！
 
+
+#### 为自己加油，你也是！
 ``` bash
 # install dependencies
 npm install
